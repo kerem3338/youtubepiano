@@ -4,7 +4,7 @@
 Youtube Piano Player by Zoda
 """
 _config={
-"paino": "https://youtu.be/3gZC5763wYk",
+"piano": "https://youtu.be/3gZC5763wYk",
 "author":"Zoda",
 "version":"0.0.1"
 }
